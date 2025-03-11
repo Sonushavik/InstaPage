@@ -1,0 +1,188 @@
+{
+        "users": [
+          {
+            "id": 101,
+            "userid": "arjun_sharma",
+            "username": "Arjun Sharma",
+            "bio": "Travel & Adventure 🚀 | Nature Lover 🌿",
+            "profile_picture": "https://randomuser.me/api/portraits/men/1.jpg",
+            "followers": 15000,
+            "following": 500,
+            "posts": [
+              {
+                "post_id": 201,
+                "image_url": "https://cdn.pixabay.com/photo/2025/03/07/15/17/goose-9453257_1280.jpg",
+                "caption": "Exploring the Himalayas 🏔️",
+                "likes": 1200,
+                "comments_count": 45
+              },
+              {
+                "post_id": 202,
+                "image_url": "https://cdn.pixabay.com/photo/2025/03/02/21/32/eurasier-aloha-puppy-9442845_1280.jpg",
+                "caption": "Goa Diaries 🌊🌴",
+                "likes": 980,
+                "comments_count": 30
+              },
+              {
+                "post_id": 203,
+                "image_url": "https://cdn.pixabay.com/photo/2025/03/02/21/32/eurasier-aloha-puppy-9442845_1280.jpg",
+                "caption": "Lost in nature 🌿🍃",
+                "likes": 760,
+                "comments_count": 25
+              },
+              {
+                "post_id": 204,
+                "image_url": "https://cdn.pixabay.com/photo/2023/06/26/21/22/shack-8090832_1280.jpg",
+                "caption": "Golden hour feels ✨",
+                "likes": 1120,
+                "comments_count": 50
+              },
+              {
+                "post_id": 205,
+                "image_url": "https://cdn.pixabay.com/photo/2023/12/08/04/15/bridge-8436747_1280.jpg",
+                "caption": "Road trips & memories 🚗",
+                "likes": 890,
+                "comments_count": 40
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "userid": "priya_mishra",
+            "username": "Priya Mishra",
+            "bio": "Food Blogger 🍕 | Home Chef 🍳",
+            "profile_picture": "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_1280.jpg",
+            "followers": 13400,
+            "following": 620,
+            "posts": [
+              {
+                "post_id": 206,
+                "image_url": "https://cdn.pixabay.com/photo/2020/08/28/12/32/man-5524488_1280.jpg",
+                "caption": "Homemade pizza night 🍕",
+                "likes": 1350,
+                "comments_count": 60
+              },
+              {
+                "post_id": 207,
+                "image_url": "https://cdn.pixabay.com/photo/2019/10/22/13/32/cooking-4568742_1280.jpgr",
+                "caption": "Tried this new burger place! 🍔",
+                "likes": 970,
+                "comments_count": 38
+              },
+              {
+                "post_id": 208,
+                "image_url": "https://cdn.pixabay.com/photo/2019/05/20/18/31/burger-4217255_1280.jpg",
+                "caption": "Morning coffee therapy ☕",
+                "likes": 860,
+                "comments_count": 33
+              },
+              {
+                "post_id": 209,
+                "image_url": "https://cdn.pixabay.com/photo/2019/05/20/18/31/burger-4217255_1280.jpg",
+                "caption": "Baked a chocolate cake 🎂",
+                "likes": 1200,
+                "comments_count": 49
+              },
+              {
+                "post_id": 210,
+                "image_url": "https://cdn.pixabay.com/photo/2022/05/31/09/16/shrimp-7233117_1280.jpg",
+                "caption": "Healthy breakfast goals 🥑🍞",
+                "likes": 820,
+                "comments_count": 28
+              }
+            ]
+          },
+          {
+            "id": 103,
+            "userid": "rahul_verma",
+            "username": "Rahul Verma",
+            "bio": "Fitness Freak 💪 | Gym Lover 🏋️‍♂️",
+            "profile_picture": "https://cdn.pixabay.com/photo/2017/08/07/14/02/man-2604149_1280.jpg",
+            "followers": 10500,
+            "following": 300,
+            "posts": [
+              {
+                "post_id": 211,
+                "image_url": "https://cdn.pixabay.com/photo/2016/11/29/09/10/man-1868632_1280.jpg",
+                "caption": "No pain, no gain 💪",
+                "likes": 1400,
+                "comments_count": 55
+              },
+              {
+                "post_id": 212,
+                "image_url": "https://cdn.pixabay.com/photo/2021/11/10/06/23/workout-6783020_1280.jpg",
+                "caption": "Eating clean, staying lean 🥗",
+                "likes": 960,
+                "comments_count": 40
+              },
+              {
+                "post_id": 213,
+                "image_url": "https://cdn.pixabay.com/photo/2017/06/30/21/02/muscle-2459720_1280.jpg",
+                "caption": "Leg day is the best day 🏋️‍♂️",
+                "likes": 1150,
+                "comments_count": 52
+              },
+              {
+                "post_id": 214,
+                "image_url": "https://cdn.pixabay.com/photo/2023/03/12/16/10/man-7847245_1280.jpg",
+                "caption": "Morning run = fresh mind 🏃‍♂️",
+                "likes": 870,
+                "comments_count": 34
+              },
+              {
+                "post_id": 215,
+                "image_url": "https://cdn.pixabay.com/photo/2015/09/14/23/40/dumbbell-940375_1280.jpg",
+                "caption": "Post-workout protein shake 🍹",
+                "likes": 920,
+                "comments_count": 39
+              }
+            ]
+          },
+          {
+            "id": 104,
+            "userid": "sneha_kapoor",
+            "username": "Sneha Kapoor",
+            "bio": "Fashion | Makeup | Lifestyle 💄👗",
+            "profile_picture": "https://cdn.pixabay.com/photo/2016/06/11/12/13/pink-hair-1450045_1280.jpg",
+            "followers": 17800,
+            "following": 800,
+            "posts": [
+              {
+                "post_id": 216,
+                "image_url": "https://cdn.pixabay.com/photo/2018/01/13/19/26/fashion-3080626_1280.jpg",
+                "caption": "New outfit of the day! 💃",
+                "likes": 1600,
+                "comments_count": 85
+              },
+              {
+                "post_id": 217,
+                "image_url": "https://cdn.pixabay.com/photo/2016/10/07/08/56/woman-1721065_1280.jpg",
+                "caption": "Makeup tutorial dropping soon! 🎨",
+                "likes": 1240,
+                "comments_count": 70
+              },
+              {
+                "post_id": 218,
+                "image_url": "https://cdn.pixabay.com/photo/2017/08/01/11/48/woman-2564660_1280.jpg",
+                "caption": "Obsessed with my new heels 👠",
+                "likes": 990,
+                "comments_count": 48
+              },
+              {
+                "post_id": 219,
+                "image_url": "https://cdn.pixabay.com/photo/2019/04/03/18/11/woman-4100999_1280.jpg",
+                "caption": "Favorite perfume collection 🌸",
+                "likes": 860,
+                "comments_count": 33
+              },
+              {
+                "post_id": 220,
+                "image_url": "https://cdn.pixabay.com/photo/2016/11/21/16/01/woman-1846127_1280.jpg",
+                "caption": "Trying a new hairstyle today ✨",
+                "likes": 1120,
+                "comments_count": 55
+              }
+            ]
+          }
+        ]
+      }

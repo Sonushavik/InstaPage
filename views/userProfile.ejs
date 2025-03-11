@@ -1,0 +1,42 @@
+<%- include("includes/header.ejs") %>
+<link rel="stylesheet" href="/style/userProfile.css">
+
+<div class="container top-profile">
+    <div class="profile-header">
+        <div class="profile-photo">
+            <img src="<%= user.profile_picture %>" alt="Profile Photo">
+        </div>
+        <div class="profile-details ">
+            <div class="profile-info grid-three">
+                <div class="username"><%= user.userId %></div>
+                <div class="actions">
+                    <button class="edit-profile-btn">Edit Profile</button>
+                    <button class="view-archive-btn">View Archive</button>
+                    <button class="setting-btn">⚙️</button>
+                </div>
+            </div>
+            <div class="stats">
+                <span><strong><%= postLength %></strong> posts</span>
+                <span><strong><%= user.followers %></strong> followers</span>
+                <span><strong><%= user.following  %></strong> following</span>
+            </div>
+            <div class="userName"><%= user.username %></div>
+            <div class="bio"><%= user.bio %></div>
+        </div>
+    </div>
+</div>
+
+<div class="container post-section">
+    <div class="post-grid">
+        <% user.posts.map((post) => { %>
+                <div class="post">
+                        <img src="<%= post.image_url%>" alt="Post Image">
+                    </div>
+        <% })  %>
+           
+    </div>
+</div>
+
+<%- include("includes/footer.ejs") %>
+</body>
+</html>
