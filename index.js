@@ -15,11 +15,17 @@ app.get("/", (req,res) => {
 })
 
 app.get("/ig/:userid", (req, res) => {
-        let {userid} = req.params;
+        let { userid } = req.params;
         const user = users.users.find(user => user.userid === userid);
-        const postLength = user.posts.length;
-        res.render("userProfile.ejs", { user, postLength });
+    
+        if (user) {
+            const postLength = user.posts.length;
+            res.render("userProfile.ejs", { user, postLength });
+        } else {
+            res.status(404).render("error.ejs");
+        }
     });
+    
     
 app.listen(PORT, () => {
         console.log(`App is listening on localhost:${PORT}`)
